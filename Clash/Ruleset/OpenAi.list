@@ -1,5 +1,7 @@
 # 内容：OpenAi
 # 数量：16条
+
+DOMAIN-SUFFIX,deepwiki.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
