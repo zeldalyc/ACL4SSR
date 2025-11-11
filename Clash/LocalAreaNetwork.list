@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,acl4.ssr
 
 # win锁屏聚焦
 DOMAIN-SUFFIX,tc.mm.bing.net
+DOMAIN-SUFFIX,arc.msn.com
+DOMAIN-SUFFIX,assets.msn.com
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
