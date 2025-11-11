@@ -4,6 +4,9 @@
 # ACL4SSR标志 如没有，代表不是用ACL4SSR规则
 DOMAIN-SUFFIX,acl4.ssr
 
+# win锁屏聚焦
+DOMAIN-SUFFIX,tc.mm.bing.net
+
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
