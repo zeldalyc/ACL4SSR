@@ -1,3 +1,8 @@
+
+DOMAIN-SUFFIX,asuswrt-merlin.net
+DOMAIN-SUFFIX,linux.do
+
+
 # 代理列表
 
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
@@ -10,7 +15,7 @@ DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,curlconverter.com
 DOMAIN-SUFFIX,gitbook.io
-DOMAIN-SUFFIX,linux.do
+
 
 
 # MyList && Other
