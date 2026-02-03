@@ -2,12 +2,14 @@
 DOMAIN-SUFFIX,asuswrt-merlin.net
 DOMAIN-SUFFIX,52asus.com
 DOMAIN-SUFFIX,metacubex.one
-
+# 宝可梦机场
 DOMAIN-SUFFIX,52pokemon.cc
 
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,anyrouter.top
+#风萧萧公益机场
+DOMAIN-SUFFIX,weyolo.com
 
 
 # 代理列表
