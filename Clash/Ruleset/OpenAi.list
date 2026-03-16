@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,stripe.com
 # 数量：39条
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
