@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,acl4.ssr
 DOMAIN-SUFFIX,tc.mm.bing.net
 DOMAIN-SUFFIX,fd.api.iris.microsoft.com
 
+# tailscale
+DOMAIN-SUFFIX,tailscale.com
+
 
 # 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
