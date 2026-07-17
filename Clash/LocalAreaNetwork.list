@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,fd.api.iris.microsoft.com
 
 # tailscale
 DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+IP-CIDR,100.64.0.0/10
+DST-PORT,41641
 
 
 # 本地/局域网地址
