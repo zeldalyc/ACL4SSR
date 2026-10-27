@@ -2,22 +2,25 @@
 DOMAIN-SUFFIX,asuswrt-merlin.net
 DOMAIN-SUFFIX,52asus.com
 DOMAIN-SUFFIX,metacubex.one
+
 # 宝可梦机场
 DOMAIN-SUFFIX,52pokemon.cc
 
+# L站公益
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,idcflare.com
 DOMAIN-SUFFIX,anyrouter.top
 DOMAIN-SUFFIX,happycoding.xyz
-
-#风萧萧公益机场
 DOMAIN-SUFFIX,weyolo.com
 DOMAIN-SUFFIX,42w.shop
-DOMAIN-SUFFIX,cerebras.ai
 DOMAIN-SUFFIX,abrdns.com
 
-# 代理列表
+# AI 相关
+DOMAIN-SUFFIX,cerebras.ai
+DOMAIN-SUFFIX,hark.com
 
+
+# 代理列表
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xn--4gqx1hgtfdmt.com
 DOMAIN-SUFFIX,avistaz.to
